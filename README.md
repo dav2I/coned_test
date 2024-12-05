@@ -1,9 +1,9 @@
-cone detection > last updated - 5/12/2024
-*
+cone detection > last updated - 5/12/2024  
+*  
 to run:
 1) download files to your environment.
 2) have python 3.7.x to 3.11.x
-3) to install ultralytics and other necessary libraries for YOLOv8 type this into command prompt:
+3) to install ultralytics and other necessary libraries for YOLOv8 type this into command prompt:  
      ```pip install ultralytics opencv-python-headless matplotlib numpy```
 4) drag your input video into `"input"` folder and name it "input_video.mp4".
 5) run "process_video.py" (cancel by pressing q).
